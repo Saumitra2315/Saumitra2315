@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saumitra2315
-- 👀 I’m interested in 
-- 🌱 I’m currently learning machine learning 
+- 👀 I’m interested in Machine Learning, Web development, App development etc
+- 🌱 I’m currently learning Frontend Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saumitra.pandey2112@gmail.com
 
